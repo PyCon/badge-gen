@@ -1,0 +1,5 @@
+.DS_Store
+*.swp
+.venv
+output.pdf
+output.svg

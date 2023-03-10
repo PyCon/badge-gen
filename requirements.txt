@@ -1,0 +1,7 @@
+pillow
+cairocffi
+cairosvg
+pangocffi
+pangocairocffi
+pyqrcode
+pypng
