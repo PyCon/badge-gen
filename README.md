@@ -1,6 +1,12 @@
 # PyCon US Badge Generator
 
-How to use:
+## Setup
+
+1) Install fonts from `fonts` directory
+2) Install Python3.9+
+3) Install `tox`
+
+## How to use
 
 ```shell
 tox
